@@ -107,15 +107,13 @@ Satisfaction Rating = 3
 ![](Satisfaction_Rating_by_Agent_equal_Three.png)
 
 
-
-Satisfaction Rating = 4
+ Satisfaction Rating = 4
 
 ![](Satisfaction_Rating_by_Agent_equal_Four.png)
 
 
 
-
-Satisfaction Rating = 5
+ Satisfaction Rating = 5
 
 ![](Satisfaction_Rating_by_Agent_equal_Five.png)
 
