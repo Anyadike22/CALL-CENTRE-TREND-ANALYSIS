@@ -59,18 +59,71 @@ In this step, I carried out an exploratory analysis of the data to answer the Ke
 Objective One
 Overall customer satisfaction — What is the distribution of answered calls by customer satisfaction?
 
+![]()
+
+Objective Two
+Average Satisfaction
+![](Average_satisfaction_rating.png)
+
 
 Objective Two
 Overall calls answered/abandoned — What is the total number of calls answered?
 What is the total number of calls abandoned/missed?
 
+![](Overall_calls_answered_and_abandoned_by_Agent.png)
+
 
 Objective Three
 The average speed of answer — What is the average duration spent before calls were answered?
+
+![](Average_speed.png)
+
 
 
 
 Objective Four
 Agent’s performance quadrant, that is, average handle time (talk duration) vs calls answered
 
+
+![]()      ![]()      ![]()
+
+
+
+# Satisfaction Ratings of Agents on Scale of 1-5
+
+Satisfaction Rating = 1
+
+![](Satisfaction_Rating_by_Agent_equal_One.png)
+
+
+
+Satisfaction Rating = 2
+
+![](Satisfaction_Rating_by_Agent_equal_Two.png)
+
+
+Satisfaction Rating = 3
+
+![](Satisfaction_Rating_by_Agent_equal_Three.png)
+
+
+
+Satisfaction Rating = 4
+
+![](Satisfaction_Rating_by_Agent_equal_Four.png)
+
+
+
+
+Satisfaction Rating = 5
+
+![](Satisfaction_Rating_by_Agent_equal_Five.png)
+
+
+
+
+
+# Overview of the Dashboard
+
+![]( Trend_dashboard.png)  
 
