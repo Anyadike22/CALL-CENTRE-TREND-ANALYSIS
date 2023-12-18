@@ -17,7 +17,7 @@ The Key Performance Indicators include:
 1.	Overall customer satisfaction
 2.	Overall calls answered/abandoned
 3.  The average speed of answer
-4.  Agent’s performance quadrant, that is, average handle time (talk duration) vs calls answered
+4.  Agent’s performance quadrant.
 
 ## Skills/Concept Demonstrated
 
@@ -57,9 +57,9 @@ There was no modeling needed as the dataset contains only one detailed table.
 In this step, I carried out an exploratory analysis of the data to answer the Key Performance Indicators question that were stated earlier.
 
 Objective One
-Overall customer satisfaction — What is the distribution of answered calls by customer satisfaction?
+Overall customer satisfaction — What is the overall customer sactisfaction? This was gotten by taking the percentage of Resolved call.
 
-![]()
+![](Overall_customer_satisfaction.png)
 
 Objective Two
 Average Satisfaction
@@ -82,10 +82,7 @@ The average speed of answer — What is the average duration spent before calls 
 
 
 Objective Four
-Agent’s performance quadrant, that is, average handle time (talk duration) vs calls answered
-
-
-![]()      ![]()      ![]()
+Agent’s performance quadrant.
 
 
 
