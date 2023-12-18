@@ -17,7 +17,8 @@ The Key Performance Indicators include:
 1.	Overall customer satisfaction
 2.	Overall calls answered/abandoned
 3.  The average speed of answer
-4.  Agent’s performance quadrant.
+4.  Average Satisfaction
+5.  Agent’s performance quadrant.
 
 ## Skills/Concept Demonstrated
 
@@ -61,10 +62,6 @@ Overall customer satisfaction — What is the overall customer sactisfaction? Th
 
 ![](Overall_customer_satisfaction.png)
 
-Objective Two
-Average Satisfaction
-![](Average_satisfaction_rating.png)
-
 
 Objective Two
 Overall calls answered/abandoned — What is the total number of calls answered?
@@ -73,15 +70,20 @@ What is the total number of calls abandoned/missed?
 ![](Overall_calls_answered_and_abandoned_by_Agent.png)
 
 
+
 Objective Three
 The average speed of answer — What is the average duration spent before calls were answered?
 
 ![](Average_speed.png)
 
 
-
-
 Objective Four
+Average Satisfaction
+![](Average_satisfaction_rating.png)
+
+
+
+Objective Five
 Agent’s performance quadrant.
 
 
